@@ -1,14 +1,14 @@
 # CodeLeap BackEnd
 
-Brief description of your project.
+An CRUD API to manage posts
 
 ## Prerequisites
 
 Before you begin, ensure you have installed:
 
-- Python (version X.X)
-- Django (version X.X)
-- Django REST Framework (version X.X)
+- Python (version 3.10)
+- Django (version 5.0.2)
+- Django REST Framework (version 3.14)
 
 ## Installation
 
