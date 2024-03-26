@@ -1,4 +1,4 @@
-# CodeLeap BackEnd
+# Django API
 
 An CRUD API to manage posts
 
